@@ -1,0 +1,33 @@
+/* /* 
+
+.carousel-caption h3 {
+
+}
+
+ */
+
+.img-fluid {
+    width:60%;
+    display: block;
+    margin: 0 auto;
+}
+
+.carousel-item img {
+    border: #000000 1px solid;
+} 
+
+.caption {
+  margin-top: 8%;
+  margin-left: 2%;
+
+}
+
+.caption2{
+  margin-bottom: 15px;
+}
+
+.item-name {
+  margin-top: -8%;
+  margin-left: 20%;
+  font-size: 25px;
+}
